@@ -1,0 +1,3 @@
+[submodule "facturador"]
+	path = facturador
+	url = https://github.com/xaca/facturator
